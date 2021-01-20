@@ -1,0 +1,40 @@
+.anchor-pane {
+    -fx-background-color: #15171C;
+}
+
+.topbar {
+    -fx-background-color: #0D8AF0;
+}
+
+.price-label {
+/*    -fx-text-fill: linear-gradient(from 25% 25% to 100% 100%, #F24E43, #9D2380); */
+    -fx-text-fill: linear-gradient(from 25% 25% to 100% 100%, #0D8AF0, #00d4ff);
+}
+
+.hint {
+    -fx-text-fill: #ED6724;
+}
+
+.currency {
+    -fx-background-radius: 50%;
+}
+
+.input, .button {
+    -fx-background-color: #23252D;
+    -fx-text-fill: #FFFFFF;
+}
+
+.input, .btn {
+    -fx-font-size: 18px;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #959699;
+}
+
+.currency, .convert {
+    -fx-background-color: #0D8AF0;
+    -fx-text-fill: #FFFFFF;
+}
+
+.gradient {
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #F24E43, #9D2380);
+}
