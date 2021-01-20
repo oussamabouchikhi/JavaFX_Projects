@@ -5,9 +5,11 @@ Some small projects for university using JavaFX library
 ## Screenshot 📸
 ### Radio button
 
-![Home](screenshots/rb1.PNG)
-![Contact](screenshots/rb2.PNG)
-![Calendar](screenshots/rb3.PNG)
+<p align="center">
+  <img src="screenshots/rb1.PNG" width="30%">
+  <img src="screenshots/rb2.PNG" width="30%">
+  <img src="screenshots/rb3.PNG" width="30%">
+</p>
 
 ### Key Generator
 ![Key generator](screenshots/key-gen.PNG)
